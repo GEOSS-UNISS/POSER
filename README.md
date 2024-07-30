@@ -69,10 +69,10 @@ For more information, please contact Fabio Menna at [fmenna@uniss.it](mailto:fme
 
 ---
 
-¹ Department of Chemical, Physical, Mathematical and Natural Sciences, University of Sassari, Sassari, Italy
-² University of San Diego California, Cultural Heritage Engineering Initiative (CHEI), La Jolla, CA, USA
-³ Department of Humanities and Social Sciences, University of Sassari, Sassari, Italy
-⁴ Department of Architecture and Design, Politecnico di Torino, Torino, Italy
-⁵ National Oceanic and Atmospheric Administration, Southwest Fisheries Science Center, La Jolla, CA, USA
-⁶ Department of Environment, Land and Infrastructure Engineering, Politecnico di Torino, Torino, Italy
-⁷ University of San Diego California, Scripps Institution of Oceanography, La Jolla, CA, USA
+¹ Department of Chemical, Physical, Mathematical and Natural Sciences, University of Sassari, Sassari, Italy  
+² University of San Diego California, Cultural Heritage Engineering Initiative (CHEI), La Jolla, CA, USA  
+³ Department of Humanities and Social Sciences, University of Sassari, Sassari, Italy  
+⁴ Department of Architecture and Design, Politecnico di Torino, Torino, Italy  
+⁵ National Oceanic and Atmospheric Administration, Southwest Fisheries Science Center, La Jolla, CA, USA  
+⁶ Department of Environment, Land and Infrastructure Engineering, Politecnico di Torino, Torino, Italy  
+⁷ University of San Diego California, Scripps Institution of Oceanography, La Jolla, CA, USA  
