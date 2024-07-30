@@ -31,6 +31,10 @@ Simulate underwater scenarios with caustics, both underwater and through water, 
 
 Understand the impact of increased pressure underwater, including inert gas dissolution in tissues and the limitations of non-decompression limits (NDL). POSER allows for the export of dive profiles, which can be analyzed using dive logging software such as Subsurface.
 
+## Publication
+
+Menna, F., McAvoy, S., Nocerino, E., Tanduo, B., Giuseffi, L., Calantropio, A., Chiabrando, F., Teppati Losè, L., Lingua, A. M., Sandin, S., Edwards, C., Zgliczynski, B., Rissolo, D., and Kuester, F.: POSER: an oPen sOurce Simulation platform for tEaching and tRaining underwater photogrammetry, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-2-2024, 265–272, [https://doi.org/10.5194/isprs-archives-XLVIII-2-2024-265-2024](https://doi.org/10.5194/isprs-archives-XLVIII-2-2024-265-2024), 2024.
+
 ## Acknowledgements
 
 POSER is funded by the ISPRS ECBI 2024 program. We would like to thank the following organizations and projects for their support:
