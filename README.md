@@ -31,6 +31,18 @@ Simulate underwater scenarios with caustics, both underwater and through water, 
 
 Understand the impact of increased pressure underwater, including inert gas dissolution in tissues and the limitations of non-decompression limits (NDL). POSER allows for the export of dive profiles, which can be analyzed using dive logging software such as Subsurface.
 
+### Available scenarios
+
+| Relased material                 | 
+| ---------------------------------- | 
+| &#x2610; Water Turbidity and Influence on Image Contrast                 |
+| &#x2610; Imaging Basics in Underwater Photogrammetry                     | 
+| &#x2610; Underwater Camera Calibration           |
+| &#x2610; Accuracy Degradation due to Unmodeled Refractive Effects                      |
+| &#x2610; Refraction by Waves and Water Caustics in Underwater and Through Water Applications                     |
+| &#x2610; SCUBA Diver-Operated Surveys: Training Safety During Underwater Photogrammetry Surveys |
+| &check; Wiki documentation          |
+
 ## Publication
 
 Menna, F., McAvoy, S., Nocerino, E., Tanduo, B., Giuseffi, L., Calantropio, A., Chiabrando, F., Teppati Losè, L., Lingua, A. M., Sandin, S., Edwards, C., Zgliczynski, B., Rissolo, D., and Kuester, F.: POSER: an oPen sOurce Simulation platform for tEaching and tRaining underwater photogrammetry, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-2-2024, 265–272, [https://doi.org/10.5194/isprs-archives-XLVIII-2-2024-265-2024](https://doi.org/10.5194/isprs-archives-XLVIII-2-2024-265-2024), 2024.
