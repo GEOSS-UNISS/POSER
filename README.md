@@ -7,7 +7,7 @@ POSER is an open-source platform designed to teach and train the fundamentals of
 
 Simulation-based learning in POSER helps in acquiring complex skills, bridging the gap between theory and practical application.
 
-### 1. Water Turbidity and Influence on Image Contrast
+#### 1. Water Turbidity and Influence on Image Contrast
 
 In underwater photogrammetry, water turbidity significantly impacts image contrast due to light absorption and scattering, reducing spatial resolution and observation accuracy. POSER uses Blender's volumetric rendering to simulate these effects, allowing users to experience and understand the challenges of underwater imaging.
 
