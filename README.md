@@ -1,8 +1,8 @@
 # POSER
 
-<img src="https://raw.githubusercontent.com/GEOSS-UNISS/POSER/refs/heads/main/Wiki/Images/Logo.png" alt="Logo">
-
 an oPen sOurce Simulation platform for tEaching and tRaining underwater photogrammetry
+
+<img src="https://raw.githubusercontent.com/GEOSS-UNISS/POSER/refs/heads/main/Wiki/Images/Logo.png" alt="Logo">
 
 POSER is an open-source platform designed to teach and train the fundamentals of underwater photogrammetry. It is funded by the ISPRS Educational and Capacity Building Initiatives and developed using Blender. The platform provides a scientifically sound and user-friendly environment for learning and experimentation, targeting students and researchers in marine archaeology, ecology, and subsea metrology.
 
