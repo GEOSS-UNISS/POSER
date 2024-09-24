@@ -1,1 +1,1 @@
-Preliminary examples of precompiled scenes in blender as educational tools
+Preliminary examples of POSER precompiled scenes in blender
