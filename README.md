@@ -77,6 +77,7 @@ POSER is funded by the ISPRS ECBI 2024 program. We would like to thank the follo
 - Brian Zgliczynski⁷
 - Dominique Rissolo²
 - Falko Kuuster²
+- Andrea Colpani
 
 ## Contact
 
