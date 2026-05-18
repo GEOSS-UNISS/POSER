@@ -1,1 +1,1 @@
-Preliminary examples of POSER precompiled scenes in blender
+Examples of POSER precompiled scenes in blender
