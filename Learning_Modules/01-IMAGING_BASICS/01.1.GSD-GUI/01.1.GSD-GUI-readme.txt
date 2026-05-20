@@ -1,0 +1,10 @@
+This scene can be donloaded at the following link:
+https://drive.google.com/file/d/1gynAz_OM63Xnz53welTDp0P8P-AOF0Nu/view?usp=sharing
+The file is named Moorea_Plot_16_2018_resolution_color_footprint_GUI_v2.blend
+
+Then open the file in Blender and:
+1) Allow the execution of the script
+2) on the left 3D viewport set the viewport shading to "Material Preview" or "Rendered" 
+3) interact using the parameters available in sidebar pane "POSER-GSD tool" to understand how camera focal length, sensor resolution, and relative position affect the GSD
+4) press render button in the sidebar pane
+5) copy the image or save it for comparison (alternatively, in the render windows multiple "slots" are available to store and comapre the renders within Blender)
