@@ -1,0 +1,12 @@
+This is a  bridge between Blender camera animation and Subsurface dive profiles. 
+Cinematic motion paths are turned into simulated scuba diving log.
+
+A timing model based on underwater speed (speed_ms) makes the generated dive physically plausible.
+With realistic ascent phases:
+bottom descent
+ascent to safety stop
+3-minute stop at 6 m
+final ascent
+
+These values are customizable in the script called "Export_CSV_to_Subsurface.py" available in Poser/Scripts/Subsurface
+
